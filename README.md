@@ -1,6 +1,6 @@
 ##                     AplineSurfing
  
-##                 WHy does this exist?
+##                 Why does this exist?
 
 For those of use that have servers, and want to develop in a container. 
  
@@ -10,5 +10,8 @@ For an AI dev platform on the cloud.
 ## I did a lot of work with this at the Premium level. 
 ## It's doable, and it accelerates a lot, but it gets stuck in iterative processing, 
 ## which means it can't troubleshoot anything. 
+
+## I did not include GHIDRA, obvious reasons. I don't need the NSA staring too hard at my underwear. The same reason for not including Hydra.
+
 
 I do love the fact, that the IDE itself is written in Go. 
